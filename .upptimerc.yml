@@ -18,14 +18,25 @@ status-website:
   cname: status.opentorc.com
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/90419756
+  favicon: https://www.opentorc.com/favicon-32x32.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Torc Platform Status
+  theme: dark
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Torc
+      href: https://github.com/opentorc/feedback
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
