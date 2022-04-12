@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/90419756
   favicon: https://www.opentorc.com/favicon-32x32.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Torc Status** site uses **Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Torc Platform Status
   theme: dark
   navbar:
