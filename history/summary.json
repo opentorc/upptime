@@ -95,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
     "status": "up",
-    "uptime": "57.03%",
-    "uptimeDay": "57.03%",
-    "uptimeWeek": "57.03%",
-    "uptimeMonth": "57.03%",
-    "uptimeYear": "57.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 80,
     "timeDay": 80,
     "timeWeek": 80,
     "timeMonth": 80,
     "timeYear": 80,
-    "dailyMinutesDown": {
-      "2022-04-13": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search Tool (Develop)",
