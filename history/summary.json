@@ -77,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
     "status": "up",
-    "uptime": "94.30%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "94.30%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "94.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1046,
     "timeDay": 1046,
     "timeWeek": 1046,
     "timeMonth": 1046,
     "timeYear": 1046,
-    "dailyMinutesDown": {
-      "2022-04-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search Tool (Staging)",
@@ -114,19 +112,19 @@
     "url": "https://search-dev.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 143,
-    "timeDay": 143,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "89.35%",
+    "uptimeDay": "89.35%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "89.35%",
+    "uptimeYear": "89.35%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 6
     }
   }
 ]
