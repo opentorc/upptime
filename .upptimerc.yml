@@ -11,6 +11,8 @@ sites:
     url: https://platform-staging.opentorc.com
   - name: Platform (Develop)
     url: https://platform-dev.opentorc.com
+  - name: Search Tool
+    url: https://search.opentorc.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
