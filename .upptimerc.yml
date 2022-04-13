@@ -15,6 +15,8 @@ sites:
     url: https://search.opentorc.com
   - name: Search Tool (Staging)
     url: https://search-staging.opentorc.com
+  - name: Search Tool (Develop)
+    url: https://search-dev.opentorc.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
