@@ -94,19 +94,19 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "status": "up",
+    "uptime": "92.56%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "92.56%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "92.56%",
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 8
     }
   },
   {
