@@ -76,18 +76,20 @@
     "url": "https://search.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Search Tool (Staging)",
@@ -95,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
     "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
-    "dailyMinutesDown": {
-      "2022-04-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search Tool (Develop)",
