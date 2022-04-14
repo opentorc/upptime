@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
     "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.24%",
+    "uptime": "98.27%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
     "time": 466,
     "timeDay": 466,
     "timeWeek": 466,
@@ -96,18 +96,20 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 71,
     "timeDay": 71,
     "timeWeek": 71,
     "timeMonth": 71,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Search Tool (Develop)",
@@ -115,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
     "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "95.65%",
-    "uptimeYear": "95.65%",
+    "uptime": "96.59%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "96.59%",
     "time": 73,
     "timeDay": 73,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2022-04-14": 58
+      "2022-04-14": 46
     }
   }
 ]
