@@ -58,18 +58,20 @@
     "url": "https://platform-dev.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/platform-dev.opentorc.com",
     "slug": "platform-develop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 770,
     "timeDay": 21,
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "Search Tool",
@@ -77,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "98.30%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
     "time": 356,
     "timeDay": 39,
     "timeWeek": 356,
@@ -96,18 +98,20 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 304,
+    "timeDay": 316,
     "timeWeek": 252,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Search Tool (Develop)",
@@ -115,18 +119,18 @@
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
     "status": "up",
-    "uptime": "96.24%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "96.24%",
+    "uptime": "97.17%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
     "time": 68,
     "timeDay": 62,
     "timeWeek": 68,
     "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2022-04-14": 60
+      "2022-04-14": 46
     }
   }
 ]
