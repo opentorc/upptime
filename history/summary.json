@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
     "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.17%",
+    "uptime": "98.18%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "98.18%",
     "time": 466,
     "timeDay": 466,
     "timeWeek": 466,
@@ -114,19 +114,19 @@
     "url": "https://search-dev.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
-    "status": "up",
-    "uptime": "95.74%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.74%",
-    "uptimeYear": "95.74%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "96.41%",
     "time": 74,
     "timeDay": 74,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2022-04-14": 55
+      "2022-04-14": 46
     }
   }
 ]
