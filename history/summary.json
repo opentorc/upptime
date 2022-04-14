@@ -76,19 +76,19 @@
     "url": "https://search.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
-    "status": "up",
-    "uptime": "95.97%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "95.97%",
+    "status": "down",
+    "uptime": "95.91%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
     "time": 608,
     "timeDay": 608,
     "timeWeek": 608,
     "timeMonth": 608,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-04-14": 24
+      "2022-04-14": 25
     }
   },
   {
@@ -96,37 +96,39 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 85,
     "timeDay": 85,
     "timeWeek": 85,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Search Tool (Develop)",
     "url": "https://search-dev.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
-    "status": "down",
-    "uptime": "91.70%",
-    "uptimeDay": "91.70%",
-    "uptimeWeek": "91.70%",
-    "uptimeMonth": "91.70%",
-    "uptimeYear": "91.70%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "status": "up",
+    "uptime": "90.57%",
+    "uptimeDay": "90.57%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-04-14": 46
+      "2022-04-14": 53
     }
   }
 ]
