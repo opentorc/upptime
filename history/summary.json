@@ -76,19 +76,19 @@
     "url": "https://search.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search.opentorc.com",
     "slug": "search-tool",
-    "status": "down",
-    "uptime": "95.91%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
-    "time": 608,
-    "timeDay": 608,
-    "timeWeek": 608,
-    "timeMonth": 608,
-    "timeYear": 608,
+    "status": "up",
+    "uptime": "95.07%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "95.07%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "95.07%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-04-14": 25
+      "2022-04-14": 30
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 6
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://search-dev.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
-    "status": "up",
-    "uptime": "90.57%",
-    "uptimeDay": "90.57%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "90.57%",
+    "status": "down",
+    "uptime": "91.89%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "91.89%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "91.89%",
     "time": 71,
     "timeDay": 71,
     "timeWeek": 71,
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-04-14": 53
+      "2022-04-14": 46
     }
   }
 ]
