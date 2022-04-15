@@ -97,9 +97,9 @@
     "url": "https://search-staging.opentorc.com",
     "icon": "https://favicons.githubusercontent.com/search-staging.opentorc.com",
     "slug": "search-tool-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 395,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-15": 0
+    }
   },
   {
     "name": "Search Tool (Develop)",
@@ -116,18 +118,18 @@
     "icon": "https://favicons.githubusercontent.com/search-dev.opentorc.com",
     "slug": "search-tool-develop",
     "status": "up",
-    "uptime": "94.50%",
-    "uptimeDay": "95.49%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "94.50%",
-    "uptimeYear": "94.50%",
+    "uptime": "95.13%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "95.13%",
+    "uptimeMonth": "95.13%",
+    "uptimeYear": "95.13%",
     "time": 71,
-    "timeDay": 71,
+    "timeDay": 70,
     "timeWeek": 71,
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-04-15": 64,
+      "2022-04-15": 52,
       "2022-04-14": 46
     }
   }
