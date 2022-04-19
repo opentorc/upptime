@@ -5,18 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: Marketing Site
     url: https://www.opentorc.com
+    maxResponseTime: 10000
   - name: Platform
     url: https://platform.opentorc.com
+    maxResponseTime: 10000
   - name: Platform (Staging)
     url: https://platform-staging.opentorc.com
+    maxResponseTime: 10000
   - name: Platform (Develop)
     url: https://platform-dev.opentorc.com
+    maxResponseTime: 10000
   - name: Search Tool
     url: https://search.opentorc.com
+    maxResponseTime: 10000
   - name: Search Tool (Staging)
     url: https://search-staging.opentorc.com
+    maxResponseTime: 10000
   - name: Search Tool (Develop)
     url: https://search-dev.opentorc.com
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
