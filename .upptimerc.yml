@@ -23,14 +23,14 @@ sites:
     url: https://search.opentorc.com
     maxResponseTime: 10000
     slug: search-tool-production
-  - name: Search Tool (Staging)
-    url: https://search-staging.opentorc.com
-    maxResponseTime: 10000
-    slug: search-tool-staging
-  - name: Search Tool (Develop)
-    url: https://search-dev.opentorc.com
-    maxResponseTime: 10000
-    slug: search-tool-develop
+#  - name: Search Tool (Staging)
+#    url: https://search-staging.opentorc.com
+#    maxResponseTime: 10000
+#    slug: search-tool-staging
+#  - name: Search Tool (Develop)
+#    url: https://search-dev.opentorc.com
+#    maxResponseTime: 10000
+#    slug: search-tool-develop
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
